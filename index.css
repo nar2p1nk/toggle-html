@@ -1,0 +1,9 @@
+html{
+    background-color: #1a1a1a;
+}
+
+.switch{
+    position: relative;
+    display: inline-block;
+
+}
